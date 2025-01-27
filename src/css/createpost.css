@@ -1,0 +1,35 @@
+
+.createform 
+{
+    padding: 50px 30%;
+
+}
+
+.create-post
+ {
+    width: 400px;
+    height: 300px;
+    background-color: #f6f6f6;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    padding: 20px 30px;
+    align-items: flex-start;
+ }
+
+ .cr-input 
+ {
+    width: 100%;
+    padding: 7px 10px;
+    outline: none;
+    border: 1px solid lightgray;
+    border-radius: 7px;
+ }
+
+ .cr-btn 
+ {
+    padding: 7px 10px;
+    background-color: rgb(114, 114, 243);
+    color: white;
+    border-radius: 10px;
+ }
